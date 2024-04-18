@@ -9,7 +9,7 @@ Diretório com arquivos .py contendo chatbots em Python (até agora, voltados pa
 Clone o projeto
 
 ```bash
-  git clone https://github.com/mariemerenc/chatbots
+  git clone https://github.com/mariemerenc/chatbots.git
 ```
 
 Entre no diretório do projeto
