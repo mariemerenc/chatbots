@@ -1,0 +1,25 @@
+    {
+    "intents": [
+      {
+        "tag": "saudacao",
+        "patterns": ["Olá", "Oi", "Bom dia", "Boa tarde", "Boa noite"],
+        "responses": ["Olá! Em que posso ajudar?", "Oi! Como posso ser útil hoje?", "Bom dia! Como posso ajudar?", "Boa tarde! Em que posso ser útil?", "Boa noite! O que você precisa?"]
+      },
+      {
+        "tag": "horario_funcionamento",
+        "patterns": ["Qual é o horário de funcionamento?", "Quais são os horários de atendimento?", "Estão abertos agora?"],
+        "responses": ["Nosso horário de funcionamento é de segunda a sexta-feira, das 8h às 17h."]
+      },
+      {
+        "tag": "documentos_necessarios",
+        "patterns": ["Quais documentos são necessários?", "O que preciso para fazer X?", "Quais são os documentos obrigatórios?"],
+        "responses": ["Os documentos necessários são X, Y e Z. Por favor, certifique-se de trazê-los consigo."]
+      },
+      {
+        "tag": "informacoes_contato",
+        "patterns": ["Qual é o telefone de contato?", "Como posso entrar em contato?", "Existe um e-mail para contato?"],
+        "responses": ["Você pode entrar em contato conosco pelo telefone (XX) XXXX-XXXX ou pelo e-mail contato@exemplo.com."]
+      }
+    ]
+  }
+  
